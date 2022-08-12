@@ -1,3 +1,3 @@
 # mytest
 my git exercise
-modify README.md
+add a file
